@@ -48,11 +48,11 @@ PAYTM_CALLBACK_URL=http://localhost:5000/callback
 npm start
 
 ## **Usage**
-**Register or log in** to access the application.
-**Browse products** and use the search functionality to find specific items.
-**Add products to the cart** and proceed to checkout.
-**Complete the purchase** using the integrated Paytm payment gateway.
-**Track your orders** and view order history in your account.
+-**Register or log in** to access the application.
+-**Browse products** and use the search functionality to find specific items.
+-**Add products to the cart** and proceed to checkout.
+-**Complete the purchase** using the integrated Paytm payment gateway.
+-**Track your orders** and view order history in your account.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
