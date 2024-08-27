@@ -24,7 +24,7 @@ This project is an **E-Commerce web application** built using modern web technol
 
 ## **Setup Instructions**
 
-1. **Clone the repository**:
+- **Clone the repository**:
    ```bash
    git clone https://github.com/Priyanshu-net/ECommerce-Web-Application.git
 
@@ -47,19 +47,19 @@ PAYTM_CALLBACK_URL=http://localhost:5000/callback
 - **Start the development server**:
 npm start
 
-- **Usage**
-**Register** or **log in** to access the application.
-Browse products and use the search functionality to find specific items.
-Add products to the cart and proceed to checkout.
-Complete the purchase using the integrated Paytm payment gateway.
-Track your orders and view order history in your account.
+## **Usage**
+**Register or log in** to access the application.
+**Browse products** and use the search functionality to find specific items.
+**Add products to the cart** and proceed to checkout.
+**Complete the purchase** using the integrated Paytm payment gateway.
+**Track your orders** and view order history in your account.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-- **Fork the repository**.
+## **Fork the repository**.
 Create a new branch (git checkout -b feature-branch).
 Make your changes and commit them (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
-- **License**
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
